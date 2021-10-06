@@ -28,7 +28,7 @@ There will probably be a paid version in the future but there will ALWAYS be a f
 
 ### ❗ What is the prefix?
 
-Kyara's prefix is: $
+Kyara's prefix is: k! - (Customizable)
 
 ### 💍 What happens if I get an error or detect a security hole?
 
@@ -38,7 +38,7 @@ If you let me know by discord you will receive a secret prize ;)
 
 ### 💡 Add Kyara to your server
 
-- [Kyara's Web](https://top.gg/bot/867678960687251466)
+- [Kyara's Web](https://kyara.elmarc.xyz)
 
 ### 📱 Stay in touch
 
